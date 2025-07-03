@@ -1,5 +1,9 @@
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop.
 
+https://github.com/user-attachments/assets/4c7f358c-6d50-4045-88a4-c4cbb250844e
+
+
+
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
   - `commonMain` is for code that’s common for all targets.
@@ -19,3 +23,9 @@ We would appreciate your feedback on Compose/Web and Kotlin/Wasm in the public S
 If you face any issues, please report them on [YouTrack](https://youtrack.jetbrains.com/newIssue?project=CMP).
 
 You can open the web application by running the `:composeApp:wasmJsBrowserDevelopmentRun` Gradle task.
+
+
+
+
+
+
